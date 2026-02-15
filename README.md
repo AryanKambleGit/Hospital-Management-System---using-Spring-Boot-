@@ -2,48 +2,54 @@
 
 🏥 Hospital Management System – Spring Boot
 
-A backend-focused Hospital Management System built using Spring Boot & JPA, designed to manage core hospital operations efficiently.
+A backend-focused Hospital Management System built using Spring Boot & JPA, designed to manage core hospital operations efficiently and in a structured way.
 
 🚀 Features
 
-Patient management with unique email validation
+👤 Patient management with unique email validation
 
-Doctor & department management
+👨‍⚕️ Doctor & department management
 
-Appointment scheduling between patients and doctors
+📅 Appointment scheduling between patients and doctors
 
-Insurance mapping with patients
+🏥 Insurance mapping with patients
 
-Proper entity relationships (One-to-One, One-to-Many, Many-to-Many)
+🔗 Proper entity relationships
 
-Clean JPA mappings with Hibernate
+One-to-One
 
-MySQL database integration
+One-to-Many
 
-RESTful architecture ready for frontend integration
+Many-to-Many
+
+🧩 Clean JPA mappings with Hibernate
+
+🗄️ PostgreSQL database integration
+
+🌐 RESTful backend ready for frontend integration
 
 🛠 Tech Stack
 
-Java
+☕ Java
 
-Spring Boot
+🌱 Spring Boot
 
-Spring Data JPA (Hibernate)
+🧬 Spring Data JPA (Hibernate)
 
-Postgrous Sql
+🐘 PostgreSQL
 
-Lombok
+🪄 Lombok
 
-Maven
+📦 Maven
 
 🎯 What I Learned
 
-Designing real-world database relationships
+🧠 Designing real-world database relationships
 
-Handling complex JPA mappings correctly
+🔍 Handling complex JPA mappings correctly
 
-Debugging Hibernate & mapping errors
+🛠️ Debugging Hibernate & mapping errors
 
-Writing clean, scalable backend code
+🧼 Writing clean and scalable backend code
 
 This project helped me strengthen my backend fundamentals and understand how real hospital systems can be modeled in software.
